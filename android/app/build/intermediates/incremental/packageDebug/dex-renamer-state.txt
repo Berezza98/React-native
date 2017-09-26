@@ -1,0 +1,4 @@
+#Fri Sep 22 13:20:02 EEST 2017
+base.0=/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
