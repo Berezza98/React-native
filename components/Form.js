@@ -20,11 +20,11 @@ export default class Form extends Component{
 
     sendNewMessage(){
         if(this.state.messageText && this.state.messageText.trim()){
-            this.sendMessage(this.state.messageText);
+            this.sendMessage(this.state.messageText.trim());
+            console.log(this.state.messageText.trim());
             this.setState({
                 messageText: ''
             });
-            this.forceUpdate();
         }
         else{
             Alert.alert('please write your message');

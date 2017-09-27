@@ -35,9 +35,19 @@ export default class AwesomeProject extends Component {
     this.addNewMessage= this.addNewMessage.bind(this);
   }
   addNewMessage(message){
-    this.setState({
-      messages: [...this.state.messages, message]
-    })
+    console.log("Main", message);
+    fetch("https://ancient-stream-43921.herokuapp.com/messages",
+    {
+      method: "POST",
+      headers: {
+        "Content-Type": "text/plain"
+      },
+      body: message
+    }).then(() => {
+      this.setState({
+        messages: [...this.state.messages, message]
+      });
+    });
   }
 
   componentDidMount(){
