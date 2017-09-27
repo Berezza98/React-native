@@ -26,13 +26,11 @@ import {
   ToolbarAndroid
 } from 'react-native';
 
-const messages= ['Roman', 'Maxim'];
-
 export default class AwesomeProject extends Component {
   constructor(props){
     super(props);
     this.state={
-      messages: messages
+      messages: []
     }
     this.addNewMessage= this.addNewMessage.bind(this);
   }
@@ -41,6 +39,15 @@ export default class AwesomeProject extends Component {
       messages: [...this.state.messages, message]
     })
   }
+
+  componentDidMount(){
+    fetch("https://ancient-stream-43921.herokuapp.com/messages")
+      .then(res => res.json())
+      .then(json => {
+          this.setState({messages: json.messages})
+      });
+  }
+
   render() {
     return (
       <View style={styles.container}>

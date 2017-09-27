@@ -1,38 +1,74 @@
 [
     {
-        "merged": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_dark.xml"
+        "merged": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_search_url_text.xml"
+        "merged": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_light.xml"
+        "merged": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_light.xml"
+        "merged": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_dark.xml"
+        "merged": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_light.xml"
+        "merged": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/home/roman/Desktop/Android React Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\home\\roman\\Desktop\\Android React Native\\AwesomeProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\berez\\Desktop\\React Native Chat\\React-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_secondary_text_material_light.xml"
     }
 ]
